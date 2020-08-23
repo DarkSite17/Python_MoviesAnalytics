@@ -1,4 +1,4 @@
-#Project: Movies Data Analysis
+# Project: Movies Data Analysis
 In this project we will analyze the data associated with the valuation of 10,000 collected films 
 associated mainly with the ratings of the users and the income generated. Some columns, like 'cast', 
 'genres' and 'production_companies', contain multiple values separated by '|'
@@ -16,7 +16,7 @@ You will use Python, plus the following libraries:
 - NumPy
 - Matplotlib
 
-# Target Project:
+## Target Project:
 
 - Investigate problems in a dataset and wrangle the data into a format you can use
 - Use pandas' Series and DataFrame objects, which let you access your data more conveniently
